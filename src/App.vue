@@ -30,3 +30,20 @@ import HelloWorld from './components/HelloWorld.vue'
   filter: drop-shadow(0 0 2em #42b883aa);
 }
 </style>
+<template>
+  <Header />
+  <div class="content">
+    <router-view />
+  </div>
+</template>
+
+<script setup>
+import Header from './components/Header.vue'
+</script>
+
+<style>
+.content {
+  padding-top: 80px; /* ヘッダーの高さ分余白 */
+}
+</style>
+
