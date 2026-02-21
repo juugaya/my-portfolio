@@ -1,6 +1,4 @@
-<template>
-    <h1>About</h1>
-  </template>
+
   <template>
     <div class="about-page">
       <h1>About Me</h1>

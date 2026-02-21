@@ -56,4 +56,4 @@
     text-shadow: 0 0 8px #00eaff;
   }
   </style>
-  
+  <router-link to="/experience" class="link">Experience</router-link>

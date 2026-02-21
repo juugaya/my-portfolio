@@ -1,7 +1,4 @@
 <template>
-    <h1>Contact</h1>
-  </template>
-<template>
     <div class="contact-page">
       <h1>Contact</h1>
   
@@ -15,7 +12,7 @@
         <h2>📧 メール</h2>
         <p>
           <a href="mailto:iraes.owada@gmail.com" class="link">
-            iraes.owada@gmail.com
+            ogamcad@gmail.com
           </a>
         </p>
       </section>
@@ -30,7 +27,7 @@
         </p>
       </section>
   
-      <!-- フォーム風 UI（実際の送信はしない安全仕様） -->
+      <!-- フォーム風 UI -->
       <section class="contact-section">
         <h2>📨 お問い合わせフォーム</h2>
         <div class="form">
@@ -110,4 +107,4 @@
     margin-top: 5px;
   }
   </style>
-    
+  

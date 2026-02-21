@@ -1,6 +1,4 @@
-<template>
-    <h1>Works</h1>
-  </template>
+
 <template>
     <div class="works-page">
       <h1>Works</h1>
