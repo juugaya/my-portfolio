@@ -44,7 +44,7 @@
         <p>
           簡易掲示板のプログラムを作成しました。
         </p>
-        <img src="GIF/phplaravelmybbs 2024-09-29 113237.gif" width="682" height="389" />
+        <!-- <img src="GIF/phplaravelmybbs 2024-09-29 113237.gif" width="682" height="389" /> -->
 
 
       </section>
@@ -55,7 +55,7 @@
         <p>
           SpringBoot と MySQL と Eclipse を使用して CRUD アプリを作成しました。
         </p>
-        <video controls src="mp4/crud操作_ProductManagementSystem.mp4"></video>
+        <!-- <video controls src="mp4/crud操作_ProductManagementSystem.mp4"></video> -->
       </section>
   
       <!-- 5. AOP 全カラム検索 -->
@@ -63,7 +63,7 @@
         <h2>⑤ Spring AOP：全カラム検索デモ</h2>
         <p>
 
-            <img src="GIF/aop_serch.gif" width="682" height="389" />
+            <!-- <img src="GIF/aop_serch.gif" width="682" height="389" /> -->
           AOP実装により、全カラム検索ができる仕組みを実装しました。
         </p>
       </section>
