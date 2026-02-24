@@ -1,25 +1,26 @@
 <template>
-  <section id="contact" class="contact-section">
-    <h2 class="section-title">Contact</h2>
+  <div class="contact-page">
+    <h1 class="section-title">Contact</h1>
 
-    <p class="contact-text">
-      お仕事のご相談・お問い合わせは、以下のフォームまたはメールからご連絡ください。
-    </p>
+    <section class="contact-section">
+      <div class="white-card">
+        <h2 class="section-subtitle">ご連絡はこちらから</h2>
 
-    <form class="contact-form">
-      <input type="text" placeholder="お名前" required>
-      <input type="email" placeholder="メールアドレス" required>
-      <textarea placeholder="お問い合わせ内容" rows="5" required></textarea>
-      <button type="submit">送信</button>
-    </form>
+        <p class="contact-text">
+          お仕事のご相談・お問い合わせは、以下のメールまたは GitHub よりご連絡ください。
+        </p>
 
-    <div class="contact-links">
-      <a href="mailto:yourmail@example.com">Email</a>
-      <a href="https://github.com/juugaya" target="_blank">GitHub</a>
-    </div>
-  </section>
+        <ul class="contact-list">
+          <li><strong>Email：</strong> ogamcad@gmail.com</li>
+          <li>
+            <strong>GitHub：</strong>
+            <a href="https://github.com/juugaya" target="_blank">
+              https://github.com/juugaya
+            </a>
+          </li>
+        </ul>
+      </div>
+    </section>
+  </div>
 </template>
 
-<style scoped>
-/* Contact の CSS をそのまま貼る */
-</style>
